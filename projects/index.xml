@@ -1,18 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的作品 on 吴睿的个人博客</title>
     <link>https://wryijia.github.io/projects/</link>
     <description>Recent content in 我的作品 on 吴睿的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language><atom:link href="https://wryijia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    
+	<atom:link href="https://wryijia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>AcWall校园服务小程序</title>
       <link>https://wryijia.github.io/projects/acwall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wryijia.github.io/projects/acwall/</guid>
-      <description>互联网校园信息共享平台：《ACwall》作品链接点击查看
+      <description>互联网校园信息共享平台： 《ACwall》作品链接点击查看
 ● 需求分析阶段：对校园信息进行汇总分类，根据需求选择服务类型，确立学生、教职工、学校和校周边用户群体提供信息便利的平台；将需求转换为功能，以校园为中心实现生活、学习和交友的信息共享服务平台，包括“表白、失物招领、闲置出让、树洞、组团、资料下载”等各类信息。 ● 产品设计阶段：梳理产品流程，编写出需求文档，进行产品原型设计。
 ● 项目协调阶段：与另外两位队友确定开发排期以及效果图评审。
 ● 产品上线阶段：对用户反馈进行跟进，优化细节。</description>
@@ -24,7 +28,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wryijia.github.io/projects/%E7%A2%B3%E7%AE%A1%E7%90%86%E5%B8%88/</guid>
-      <description>在线考试平台：《碳管理师考试系统》小程序端作品链接点击查看
+      <description>在线考试平台： 《碳管理师考试系统》小程序端作品链接点击查看
 《碳管理师考试系统》B端管理系统作品链接点击查看
 项目描述：
 ​ 碳管理师考试小程序是基于互联网的在线考试平台，产品定位与打造一个在线学习+考试的完整学习环境，从阅读材料学习到模拟考试，让机构学生能真正学到对应碳管理知识，并合格完成线上终极考试。

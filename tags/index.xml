@@ -1,12 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 吴睿的个人博客</title>
     <link>https://wryijia.github.io/tags/</link>
     <description>Recent content in Tags on 吴睿的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Jun 2021 08:04:16 -0500</lastBuildDate><atom:link href="https://wryijia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 20 Jun 2021 08:04:16 -0500</lastBuildDate>
+    
+	<atom:link href="https://wryijia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Acwall</title>
       <link>https://wryijia.github.io/tags/acwall/</link>

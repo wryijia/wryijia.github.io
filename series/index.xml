@@ -1,12 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 吴睿的个人博客</title>
     <link>https://wryijia.github.io/series/</link>
     <description>Recent content in Series on 吴睿的个人博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Jun 2021 08:04:16 -0500</lastBuildDate><atom:link href="https://wryijia.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    
+	<atom:link href="https://wryijia.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>介绍文档</title>
       <link>https://wryijia.github.io/series/%E4%BB%8B%E7%BB%8D%E6%96%87%E6%A1%A3/</link>
