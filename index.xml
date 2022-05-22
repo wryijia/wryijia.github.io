@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>吴睿的个人博客</title>
+    <link>https://wryijia.github.io/</link>
+    <description>Recent content on 吴睿的个人博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 20 Jun 2021 08:04:16 -0500</lastBuildDate><atom:link href="https://wryijia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AcWall校园服务小程序</title>
+      <link>https://wryijia.github.io/projects/acwall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wryijia.github.io/projects/acwall/</guid>
+      <description>互联网校园信息共享平台：《ACwall》作品链接点击查看
+● 需求分析阶段：对校园信息进行汇总分类，根据需求选择服务类型，确立学生、教职工、学校和校周边用户群体提供信息便利的平台；将需求转换为功能，以校园为中心实现生活、学习和交友的信息共享服务平台，包括“表白、失物招领、闲置出让、树洞、组团、资料下载”等各类信息。 ● 产品设计阶段：梳理产品流程，编写出需求文档，进行产品原型设计。
+● 项目协调阶段：与另外两位队友确定开发排期以及效果图评审。
+● 产品上线阶段：对用户反馈进行跟进，优化细节。</description>
+    </item>
+    
+    <item>
+      <title>碳管理师考试小程序与B端管理系统</title>
+      <link>https://wryijia.github.io/projects/%E7%A2%B3%E7%AE%A1%E7%90%86%E5%B8%88/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wryijia.github.io/projects/%E7%A2%B3%E7%AE%A1%E7%90%86%E5%B8%88/</guid>
+      <description>在线考试平台：《碳管理师考试系统》小程序端作品链接点击查看
+《碳管理师考试系统》B端管理系统作品链接点击查看
+项目描述：
+​ 碳管理师考试小程序是基于互联网的在线考试平台，产品定位与打造一个在线学习+考试的完整学习环境，从阅读材料学习到模拟考试，让机构学生能真正学到对应碳管理知识，并合格完成线上终极考试。
+项目描述：
+​ 背景：伴随碳排放管理政策下发，抓住技术创新发展契机提升竞争力，甲方提出考试小程序需求。
+​ 任务：根据甲方业务需求，梳理整体业务流程，拆分系统模块，根据考试用户使用习惯进行优化，包括“首页”、“试卷”、“记录”、“我的”，细分为“任务中心”、“固定试卷”、“时段试卷”、“考试信息”，输出产品设计原型。
+​ 行动：根据综合需求，绘制出功能架构图以及业务流程图，并输出产品原型及PRD，组织研发、测试进行详细的评审。
+​ 结果：保质保量完成了甲方需求并上线。</description>
+    </item>
+    
+    <item>
+      <title>跨境出海B端应用</title>
+      <link>https://wryijia.github.io/projects/%E8%B7%A8%E5%A2%83%E5%87%BA%E6%B5%B7b%E7%AB%AF%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wryijia.github.io/projects/%E8%B7%A8%E5%A2%83%E5%87%BA%E6%B5%B7b%E7%AB%AF%E5%BA%94%E7%94%A8/</guid>
+      <description>《跨境出海》B端应用平台作品链接点击查看</description>
+    </item>
+    
+    <item>
+      <title>ACWall小程序介绍文档</title>
+      <link>https://wryijia.github.io/blog/coffee-ipsum/</link>
+      <pubDate>Sun, 20 Jun 2021 08:04:16 -0500</pubDate>
+      
+      <guid>https://wryijia.github.io/blog/coffee-ipsum/</guid>
+      <description>ACWall小程序介绍文档一、 产品综述1.1 文档属性文档名称：小程序介绍文档
+版本：1.0
+撰写人：群峰之巅[团队]
+攥写时间：2021-5-24
+1.2 产品简介1.2.1产品类型：互联网校园信息共享平台
+1.2.2产品logo:1.2.3 产品介绍：平台针对庞杂的校园信息进行汇总分类，用户通过小程序，根据需求选择服务类型，是为学生，教职工，学校和校周边用户群体提供信息便利的一个平台。
+1.2.4 产品定位：以校园为中心实现生活、学习和交友的信息共享服务平台，包括“我要表白”、“失物招领”、“闲置出让”、“树懒树洞”、“组团”、“资料下载”等各类信息，通过线上信息平台，实现信息的高效利用和流通的服务系统。
+1.2.5 产品背景：在大学校园生活里，极大量的需求信息喷涌而出，然而，校内信息共享平台众多，消息冗杂，寻找需求信息需耗费一定的心力，信息需求者与供应者总是失之交臂，彼此寻找，不能有效实现信息的流通与对接。目的就是将这些庞杂的信息汇总起来，进行分类，优化平台服务，从解决校园生活的各种需求出发，使信息能够高效的流通起来，真正为信息用户服务到位。
+1.3 产品用户学生，教职工，学校和校周边用户群体
+1.4 需求总结根据KANO模型，将用户需求分为五类：基本型需求、期望型需求、兴奋型需求、无差异型需求以及反向型需求。
+二、产品结构2.1 产品功能结构图2.2 产品信息架构图三、全局说明3.1. 权限弹窗正在加载
+没有更多
+暂未开放
+内容不能为空
+请输入交易地点
+超出字数限制
+3.2 异常情况3.2.1 异常刷新失败
+不能超出字数限制
+3.2.2 用户状态说明获取登录信息
+3.3 加载状态正在加载
+3.4 键盘输入· 点击数字输入框时，从页面底部弹出数字键盘；
+· 点击评论框、详情描述等文字输入框时，从页面底部弹出字母键盘
+四、产品流程图
+3.5 前端流程3.5.1登录流程3.5.2发布流程四、页面详细功能说明4.1首页页面4.1.1 页面名称：首页4.</description>
+    </item>
+    
+  </channel>
+</rss>
